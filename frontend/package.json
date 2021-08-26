@@ -1,6 +1,16 @@
 {
   "name": "cms-strapi",
   "version": "1.0.0",
+  "author": "Abraham Yusuf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarlr/magazine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edgarlr/magazine/issues"
+  },
+  "homepage": "https://github.com/edgarlr/magazine#readme",
   "scripts": {
     "dev": "next",
     "develop": "next",
