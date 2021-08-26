@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edgarlr/magazine.git"
+    "url": "git+https://github.com/abraham-yusuf/development-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/edgarlr/magazine/issues"
+    "url": "https://github.com/abraham-yusuf/development-tools/issues"
   },
-  "homepage": "https://github.com/edgarlr/magazine#readme",
+  "homepage": "https://github.com/abraham-yusuf/development-tools#readme",
   "scripts": {
     "dev": "next",
     "develop": "next",
